@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
 .heading{
-	color: black;
+	color: #333;
+	font-size: 3em;
+	text-align: center;
+	
 }
